@@ -1,3 +1,5 @@
+GitHub: https://github.com/chenpota/c-cpp/tree/master/cpp-plugin
+
 # File structure
 
     cpp-plugin/
@@ -328,6 +330,4 @@ extern "C" {
     root@3f8bf6ba4ec6:~/cpp-plugin/build# 
 
 # Reference
-[1] https://github.com/chenpota/c-cpp/tree/master/cpp-plugin
-
-[2] http://www.tldp.org/HOWTO/html_single/C++-dlopen/
+[1] http://www.tldp.org/HOWTO/html_single/C++-dlopen/
