@@ -66,21 +66,21 @@ target_link_libraries(
 
 ## cpp-plugin/app/src/main.cpp
 
-### dlopen
+### dlopen()
 
 Load shared object dynamically.
 
-### dlsym
+### dlsym()
 
 Take a handle of a dynamic loaded shared object returned by dlopen().
 
-### dlerror
+### dlerror()
 
 Returns NULL if no errors have occurred.
 
 Return a human-readable, null-terminated string describing the most recent error that occurred from a call to one of the functions in the dlopen API since the last call to dlerror().
 
-### dlclose
+### dlclose()
 
 Decrease the reference count on the dynamically loaded shared object referred to by handle.
 
