@@ -5,20 +5,20 @@ GitHub: https://github.com/chenpota/c-cpp/tree/master/cpp-plugin
     cpp-plugin/
     ├── app/
     │   ├── CMakeLists.txt
-    │   └── src
+    │   └── src/
     │       └── main.cpp
     ├── CMakeLists.txt
     ├── libmyplugin/
     │   ├── CMakeLists.txt
-    │   ├── include
+    │   ├── include/
     │   │   └── MyPlugin.hpp
-    │   └── src
+    │   └── src/
     │       └── MyPlugin.cpp
     └── libplugin/
         ├── CMakeLists.txt
-        ├── include
+        ├── include/
         │   └── Plugin.hpp
-        └── src
+        └── src/
             └── Plugin.cpp
 
 ## cpp-plugin/CMakeLists.txt
